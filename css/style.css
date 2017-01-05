@@ -2068,3 +2068,7 @@ margin-bottom: 35px !important;
     }
 
 /**/
+
+.scrolloff {
+        pointer-events: none;
+    }
