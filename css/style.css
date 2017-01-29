@@ -493,6 +493,10 @@ ol.type li a:hover {
 	font-size: 20px;
 	margin: 5px 0;
 }
+
+#call-reservation a {
+	color: #fff;
+}
 /* Contact Section */
 #contact {
 	padding: 100px 0 60px 0;
