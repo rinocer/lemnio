@@ -1,10 +1,3 @@
-/*
-    Theme Name: Bethany
-    Theme URL: https://bootstrapmade.com/bethany-free-onepage-bootstrap-theme/
-    Author: BootstrapMade.com
-    Author URL: https://bootstrapmade.com
-*/
-
 body {
 	line-height: 1.5;
 	font-family: 'Open Sans', sans-serif;
@@ -107,7 +100,7 @@ h1, h2, h3, h4, h5, h6
 }
 .sub-title
 {
-	font-size: 50px;
+	font-size: 40px;
 	font-weight: 700;
 	color: #fff;
 	line-height: 71px;
@@ -117,7 +110,7 @@ h1, h2, h3, h4, h5, h6
 }
 .title
 {
-	font-size: 123px;
+	font-size: 90px;
 	font-weight: 700;
 	color: #fff;
 	line-height: 88px;
@@ -137,7 +130,7 @@ h1, h2, h3, h4, h5, h6
     font-weight: normal;
     border-radius: 0px;
     letter-spacing: 1px;
-    color: #ddd;
+    color: #eee;
     position: relative;
     overflow: hidden;
     -webkit-transition: all 0.4s ease-in-out;
@@ -432,4 +425,60 @@ a, a:hover
         font-size: 20px;
     }
 }
-/****/
+
+hr.style16 {
+  border-top: 1px dashed #8c8b8b;
+}
+hr.style17 {
+  border-top: 1px dashed #8c8b8b;
+}
+hr.style18 {
+  border-top: 1px dashed #8c8b8b;
+}
+hr.style19 {
+  border-top: 1px dashed #8c8b8b;
+}
+hr.style16:after {
+  content: '\002702';
+  display: inline-block;
+  position: relative;
+  top: -12px;
+  left: 10%;
+  padding: 0 3px;
+  background: #ffffff;
+  color: #C93825;
+  font-size: 18px;
+}
+hr.style17:after {
+  content: '\002702';
+  display: inline-block;
+  position: relative;
+  top: -12px;
+  left: 30%;
+  padding: 0 3px;
+  background: #ffffff;
+  color: #C93825;
+  font-size: 18px;
+}
+hr.style18:after {
+  content: '\002702';
+  display: inline-block;
+  position: relative;
+  top: -12px;
+  left: 50%;
+  padding: 0 3px;
+  background: #ffffff;
+  color: #C93825;
+  font-size: 18px;
+}
+hr.style19:after {
+  content: '\002702';
+  display: inline-block;
+  position: relative;
+  top: -12px;
+  left: 70%;
+  padding: 0 3px;
+  background: #ffffff;
+  color: #C93825;
+  font-size: 18px;
+}
